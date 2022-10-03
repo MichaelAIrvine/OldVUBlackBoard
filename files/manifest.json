@@ -1,0 +1,16 @@
+{
+  "name": "Old VU Blackboard",
+  "description": "Replaces the new Blackboard UI with the old one.",
+  "version": "0.1",
+  "id": "oldbb@bb.com",
+  "manifest_version": 2,
+  "content_scripts": [ {
+	"matches": ["*://blackboard.valpo.edu/*"],
+	"run_at": "document_start",
+	"js": ["background.js"]
+  },{
+	"matches": ["*://blackboard.valpo.edu/*"],
+	"run_at": "document_idle",
+	"js": ["topbar.js"]
+  } ]
+}
