@@ -12,11 +12,11 @@ Old Valpo BlackBoard. Simple as
 1. <a href="https://github.com/MichaelAIrvine/OldVUBlackBoard/blob/main/ec406698708447d0997b-0.1.xpi?raw=true">Click here</a>
 </div>
 2. Save in a folder you like<br/>
-3. Open firefox, go to about:addons
-4. Click the little gear
-5. Click 'Install Add-On From File...'
-6. Navigate to the file you downloaded
-7. Open it, give it permissions, etc.
+3. Open firefox, go to about:addons<br/>
+4. Click the little gear<br/>
+5. Click 'Install Add-On From File...'<br/>
+6. Navigate to the file you downloaded<br/>
+7. Open it, give it permissions, etc.<br/>
 
 ## Chromium:
 
