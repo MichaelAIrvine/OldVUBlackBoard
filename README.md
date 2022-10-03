@@ -11,6 +11,12 @@ Old Valpo BlackBoard. Simple as
 <div class = "install-ok">
 1. <a href="https://github.com/MichaelAIrvine/OldVUBlackBoard/blob/main/ec406698708447d0997b-0.1.xpi?raw=true">Click here</a>
 </div>
+2. Save in a folder you like<br/>
+3. Open firefox, go to about:addons
+4. Click the little gear
+5. Click 'Install Add-On From File...'
+6. Navigate to the file you downloaded
+7. Open it, give it permissions, etc.
 
 ## Chromium:
 
@@ -18,8 +24,9 @@ Old Valpo BlackBoard. Simple as
 1. <a href="https://github.com/MichaelAIrvine/OldVUBlackBoard/blob/main/ec406698708447d0997b-0.1.xpi?raw=true">Click here</a>  
 </div>
 2. Unzip folder into a folder you like<br/>
-3. Open chromium browser, got to about://extensions<br/>
+3. Open chromium browser, go to about://extensions or chrome://extensions<br/>
 4. Turn on developer mode if you do not see "load unpacked"<br/>
 5. Click "load unpacked"<br/>
 6. Navigate to the extract location<br/>
 7. Turn off developer mode (if you want)<br/>
+8. Make an issue if this doesn't work because I don't use chromium
